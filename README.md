@@ -1,2 +1,2 @@
-# Tim rankings 
+# Tim rankings.
 My projects 
